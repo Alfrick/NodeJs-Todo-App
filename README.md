@@ -1,6 +1,6 @@
 # NodeJs-Todo-App
 
-This is the entire code for a simple Todo app in Node.js. The application allows users to add and delete items to a list.
+This is the entire code for a simple Todo app in Node.js created using the MVC approach. The application allows users to add and delete items to a list.
 Whenever an item is added the list, it's stored on a database and displayed on the interface.
 Clicking on any item removes it from the list. 
 
