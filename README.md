@@ -11,6 +11,7 @@ Clicking on any item removes it from the list.
 * HTML/CSS
 * MongoDb and Mongoose
 * Jquery Ajax
+* EJS (Embedded JavaScript templates)
 
 I'm grateful to [@Shaun](https://github.com/iamshaunjp) for his lessons that enabled me to create this application. 
 
