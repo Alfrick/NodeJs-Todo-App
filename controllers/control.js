@@ -1,7 +1,7 @@
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 
-mongoose.connect("mongodb+srv://test:test@cluster0-polpl.mongodb.net/test?retryWrites=true&w=majority", {useNewUrlParser: true });
+mongoose.connect("mongodb+srv://test:passandtestit@cluster0-polpl.mongodb.net/test?retryWrites=true&w=majority", {useNewUrlParser: true });
 
 //create a schema, that is like a blueprint
 var todoSchema = new mongoose.Schema({
