@@ -7,10 +7,9 @@
     "body-parser": "^1.19.0",
     "ejs": "^2.6.2",
     "express": "^4.17.1",
-    "gdax": "^0.6.0",
     "mongoose": "^5.6.6",
     "nodemon": "^1.19.1",
-    "trading_bot": "^2.1.0"
+    
   },
   "devDependencies": {},
   "scripts": {
